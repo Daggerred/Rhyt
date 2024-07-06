@@ -1,5 +1,6 @@
 LOG IN PAGE:
-![image](https://github.com/Daggerred/Rhyt/assets/119807467/25c7a0a9-d9a7-4aa9-850d-a87cd17241a4)
+![image](https://github.com/Daggerred/Rhyt/assets/119807467/0c463046-73ae-4428-bdad-112f06ee29ef)
+
 
 HOME PAGE:
 
