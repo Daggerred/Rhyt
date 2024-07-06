@@ -28,3 +28,14 @@ yarn create next-app --example with-tailwindcss with-tailwindcss-app
 
 Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
 <img width="1175" alt="image" src="https://github.com/Daggerred/Rhyt/assets/119807467/b30b3f8f-ce12-4ec8-8055-a39a0aca776b">
+
+![image](https://github.com/Daggerred/Rhyt/assets/119807467/58f2afe5-4544-4252-b918-4206b1cbbb04)
+
+![image](https://github.com/Daggerred/Rhyt/assets/119807467/f6b5ebb1-b46e-46e4-8107-601e40091783)
+
+![image](https://github.com/Daggerred/Rhyt/assets/119807467/940d1b58-2f25-4b50-bf7f-ce3b86f3948c)
+
+![image](https://github.com/Daggerred/Rhyt/assets/119807467/7cedb27a-c8a4-4458-b47c-bd439e5b7ea6)
+
+
+![image](https://github.com/Daggerred/Rhyt/assets/119807467/d65eec6b-c90a-4c3f-bc67-911729d5ebcc)
